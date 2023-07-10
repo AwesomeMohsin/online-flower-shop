@@ -92,19 +92,33 @@ body {
 #featured-flowers-1 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+    height: 538px;
+}
+
+#featured-flowers-1 img{
+    padding: 110px 78px 0 76px;
 }
 
 #featured-flowers-2 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
-
+    width: 464px;
+    height: 538px;
+}
+#featured-flowers-2 img{
+    padding: 117px 47px 51px 47px;
 }
 
 #featured-flowers-3 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+    height: 538px;
 }
-
+#featured-flowers-3 img{
+    padding: 67px 75px 0 75px;
+}
 .flowers-titles {
     display: flex;
     justify-content: space-around;
@@ -165,7 +179,7 @@ body {
     border: none;
     font-size: 20px;
     font-weight: 700;
-    
+
 }
 
 .hot-deal-image {
@@ -174,22 +188,23 @@ body {
 
 /* Instagram Section */
 
-.instagram-section{
+.instagram-section {
     display: flex;
     justify-content: center;
     margin-top: 128px;
-    
+
 }
+
 .instagram-content {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     margin-bottom: 128px;
-    
+
 }
 
-.instagram-title{
+.instagram-title {
     color: #272727;
     text-align: center;
     font-size: 40px;
@@ -209,6 +224,7 @@ body {
     text-align: center;
     display: flex;
 }
-.instagram-photos img{
+
+.instagram-photos img {
     margin-right: 24px;
 }

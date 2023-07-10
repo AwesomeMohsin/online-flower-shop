@@ -42,6 +42,7 @@ body {
 }
 
 .btn-shop {
+    
     border-radius: 8px;
     padding: 20px 43px;
     gap: 10px;
@@ -179,8 +180,8 @@ body {
 }
 
 .btn-signup {
-    height: 64px;
     width: 155px;
+    height: 64px;
     border-radius: 8px;
     background: #E55473;
     color: #FFF;
@@ -234,7 +235,7 @@ body {
 }
 
 .instagram-photos img {
-    margin-right: 24px;
+    padding: 10px;
 }
 
 /* Latest Deals Styles section */
@@ -270,4 +271,26 @@ body {
     font-size: 18px;
     font-weight: 400;
     line-height: 30px;
+}
+
+.subscribe-content input {
+    color: rgba(39, 39, 39, 0.60);
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    border-style: none;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.btn-subscribe {
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+    border-style: none;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 16px;
 }

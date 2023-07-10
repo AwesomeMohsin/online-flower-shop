@@ -17,30 +17,27 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    
-    
+
+
 
 }
-.banner-content{
 
-}
 .banner-title {
     color: #272727;
     width: 708px;
     font-size: 80px;
-    font-style: normal;
     font-weight: 800;
     line-height: normal;
-    
+
 }
 
 .banner-description {
     width: 634px;
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
-    font-style: normal;
     font-weight: 400;
     line-height: 30px;
+
 }
 
 .btn-shop {
@@ -52,7 +49,26 @@ body {
     font-size: 20px;
     font-weight: 700;
 }
-.banner-image{
+
+.banner-image {
     margin-left: 100px;
-    
+}
+
+/* Featured Flower style section */
+
+.featured-flower-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    line-height: normal;
+}
+.featured-description{
+    width: 594px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+
 }

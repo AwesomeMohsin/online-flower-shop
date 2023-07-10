@@ -41,7 +41,7 @@ body {
 }
 
 .btn-shop {
-    
+
     border-radius: 8px;
     padding: 20px 43px;
     gap: 10px;
@@ -294,4 +294,44 @@ body {
     font-weight: 400;
     margin-left: 12px;
 }
+
 /* Footer style section */
+
+.footer {
+    background: #111010;
+    width: auto;
+    height: 449px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+
+.footer-title-color {
+    color: #E55473;
+
+}
+
+.footer-title {
+    color: #FFFFFF;
+    font-size: 48px;
+    font-weight: 800;
+    margin-bottom: 0;
+}
+
+.footer-description {
+    width: 600px;
+    color: rgba(255, 255, 255, 0.90);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 300;
+    line-height: 30px;
+}
+
+.footer-copyright {
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 32px;
+}

@@ -1,0 +1,58 @@
+/* Shared style section */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Lato';
+}
+
+/* Header style section */
+.header {
+    background: rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+}
+.banner-content{
+
+}
+.banner-title {
+    color: #272727;
+    width: 708px;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    
+}
+
+.banner-description {
+    width: 634px;
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn-shop {
+    border-radius: 8px;
+    padding: 20px 43px;
+    gap: 10px;
+    background: #E55473;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+}
+.banner-image{
+    margin-left: 100px;
+    
+}

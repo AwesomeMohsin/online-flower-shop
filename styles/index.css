@@ -150,7 +150,7 @@ body {
     display: flex;
     align-items: flex-end;
     justify-content: center;
-    margin-top: 128px;
+    margin-top: 200px;
 }
 
 .hot-deal-content {
@@ -207,9 +207,7 @@ body {
     /* padding-left: 100px; */
     width: 80%;
     border-radius: 10px;
-    border-color: #111010;
-    border-width: 1px;
-    border-style: dashed;
+    border-color: #111010;   
     background-color: #F7F3F1;
     margin-top: 128px;
 }
@@ -272,13 +270,13 @@ body {
 }
 
 .btn-shop-now {
-    width: 150px;
+    width: 155px;
     height: 64px;
-    border-radius: 20px;
+    border-radius: 15px;
     border-style: none;
     background: #E55473;
     color: #FFF;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 400;
     margin-top: 15px;
     margin-bottom: 100px;
